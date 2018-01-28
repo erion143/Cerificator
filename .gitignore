@@ -99,10 +99,9 @@ ENV/
 .mypy_cache/
 
 # pycharm
-*idea/
+.idea/
 
 # shelve files
 *.bak
 *.dat
 *.dir
-.idea/workspace.xml
