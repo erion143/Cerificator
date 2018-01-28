@@ -97,3 +97,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# pycharm
+.idea
+
+# shelve files
+*.bak
+*.dat
+*.dir
